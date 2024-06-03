@@ -1,22 +1,21 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: SDE IV
+date: Jan 2022 - Aug 2022
+location: WF
+org: Meesho
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Software Devloper",
+    "UI",
+    "React",
+    "Javascript",
+    "Python",
+    "Django",
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
+- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
+- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
+- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
+- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.

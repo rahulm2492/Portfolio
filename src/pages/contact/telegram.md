@@ -1,5 +1,5 @@
 ---
-title: Telegram
+title: Phone
 icon: mdi:telegram
-url: https://t.me/
+url: 9003876734
 ---
