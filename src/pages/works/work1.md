@@ -14,8 +14,8 @@ tags:
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Working With Risk Divison as Core Software Engineer.
+- Building Products for High Frequency Trading Teams considering latency as core factor
+- Using React, Python , NodeJs, Django and all other peripheral technologies to build the best product in minimum time.
+- Cordinating with users, designers and fellow developers to architect and improve software delivery wth time.
+

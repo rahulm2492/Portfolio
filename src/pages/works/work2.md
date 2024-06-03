@@ -14,8 +14,9 @@ tags:
   ]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Working With Web Meesho Platform.
+- Task was to integrate Payment Providers on web.
+- Used juspay as 3rd Party Payment Aggrgator.
+- Utilized web hook and iframe to achieve desired outcome with guarantee of security to customers
+- Using React, Python , NodeJs, Django and all other peripheral technologies to build the best product in minimum time.
+- Cordinating with users, designers and fellow developers to architect and improve software delivery wth time.
