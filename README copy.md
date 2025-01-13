@@ -5,7 +5,7 @@ Astro-CV-Esquelete is a free, easy-to-use CV template with a clean design. Just 
 ## Project Structure
 
      ┣ 📂public
-     ┃ ┣ 📜cv-20240219.pdf
+     ┃ ┣ 📜latest_resume.pdf
      ┃ ┣ 📜favicon.webp
      ┃ ┣ 📜gl_flag_128x.png
      ┃ ┣ 📜profile.webp
